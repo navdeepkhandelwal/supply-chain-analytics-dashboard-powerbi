@@ -25,13 +25,12 @@ Highlighted inventory shortages across product categories
 Monitored order fulfillment efficiency across regions
 
 Dashboard Preview:-
-![Dashboard](supply-chain-dashboard-preview.png)
+![Dashboard]"C:\Users\mrnk1\Pictures\Screenshots\supply-chain-dashboard-preview.png"
 
-Project Files
-Power BI Dashboard (.pbix)
+## Live Dashboard
+You can explore the interactive Power BI dashboard here:
+https://app.powerbi.com/groups/me/reports/8fa0f05e-d770-41cd-94a1-ccbd16a89d1e/740ddd138dd3841aed2a?experience=power-biYou can explore the interactive Power BI dashboard here:
 
-Dataset
-Dashboard Screenshot
 
 Author
 Navdeep Khandelwal
