@@ -25,7 +25,8 @@ Highlighted inventory shortages across product categories
 Monitored order fulfillment efficiency across regions
 
 Dashboard Preview:-
-![Dashboard]"C:\Users\mrnk1\Pictures\Screenshots\supply-chain-dashboard-preview.png"
+![Supply Chain Dashboard]<img width="1920" height="1020" alt="supply-chain-dashboard-preview" src="https://github.com/user-attachments/assets/709564b9-ed42-4897-a2dc-1529f289bcb0" />
+
 
 ## Live Dashboard
 You can explore the interactive Power BI dashboard here:
